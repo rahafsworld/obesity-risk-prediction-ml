@@ -7,4 +7,3 @@ Included in this notebook:
 - Data preprocessing relevant to the implemented models
 - K-Nearest Neighbors (KNN) model visualization, and evaluation
 - Decision Tree model visualization, and evaluation
-- Model comparison and discussion
